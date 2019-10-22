@@ -1,0 +1,7 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [true, "attribute", "crytidNew", "camelCase"],
+    "component-selector": [true, "element", "crytid-new", "kebab-case"]
+  }
+}
